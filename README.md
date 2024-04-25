@@ -35,9 +35,6 @@ Figma
 
 
 ## OUTPUT:
-
-
-
 ![alt text](event1.png)
 ![alt text](event2.png)
 ![alt text](event3.png)
