@@ -31,6 +31,7 @@ Publish the website in the given URL.
 
 ## DESIGN TOOL:
 Figma
+
 ## OUTPUT:
 ![alt text](event1.png)
 ![alt text](event2.png)
